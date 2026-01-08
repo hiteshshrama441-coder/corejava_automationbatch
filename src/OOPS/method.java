@@ -25,3 +25,6 @@ public static void main(String[] args) {
 	mo.payment("phonepe wallet", 4550);
 }
 }
+// area of sq,rect,and circle
+//findvolume of cube,cuboid and cylinder
+// 
