@@ -11,5 +11,7 @@ public class area_of_square {
 public static void main(String[] args) {
 	area_of_square as=new area_of_square();
 	System.out.println(as.area(5));
+	
 }
+
 }
