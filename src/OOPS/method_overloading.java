@@ -10,7 +10,7 @@ public class method_overloading {
 		
 	 }
 	 void test(int a,int b) {
-		 System.out.println(a+b);
+		 System.out.println(a+ b);
 	 }
 	 void test(int id,String name) {
 		 System.out.println(id+" "+name);
